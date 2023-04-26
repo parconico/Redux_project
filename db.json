@@ -1,0 +1,34 @@
+{
+  "productos": [
+    {
+      "nombre": "Pizza",
+      "precio": "1000",
+      "id": 32
+    },
+    {
+      "nombre": "Coca",
+      "precio": "550",
+      "id": 33
+    },
+    {
+      "nombre": "Papas",
+      "precio": 300,
+      "id": 34
+    },
+    {
+      "nombre": "Jamon",
+      "precio": 700,
+      "id": 35
+    },
+    {
+      "nombre": "Queso",
+      "precio": "730",
+      "id": 36
+    },
+    {
+      "nombre": "Tequila",
+      "precio": 600,
+      "id": 37
+    }
+  ]
+}
